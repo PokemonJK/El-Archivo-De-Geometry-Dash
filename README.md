@@ -1,2 +1,2 @@
-# El-Archivo-Pokemon
-Este archivo es algo que trata sobre los pokemon y sus juegos explicado y muy bien explicado.
+# El-Archivo-De-Geometry-Dash
+Este archivo es algo que trata sobre Geometry Dash explicado y muy bien explicado.
